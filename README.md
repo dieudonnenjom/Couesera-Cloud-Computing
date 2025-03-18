@@ -9,4 +9,5 @@ hello dieudonne how are you doing today
 
 Now pushing and pulling code to our production server
 
-
+the cloud computing coursera course is though
+i thing we should take is seriously
